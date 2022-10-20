@@ -31,7 +31,7 @@ class JiraConn():
         self.jira = JIRA(server='https://jira.devtools.intel.com/',
                 max_retries=1,
                 #basic_auth=(username, password),
-                token_auth='MDg1OTY1MjczMjgxOvf8tfr+TCYk8lcAJ86wwFeBEVPd',
+                token_auth='',
                 options={'verify': 'my.ca_bundle'})
         self.field_name_to_id = {}
         for f in self.jira.fields():
@@ -76,7 +76,7 @@ if __name__ == '__main__':
             github_link = ji.get_field(jira.field_name_to_id['Notes'])
             gh_issues_exists.add(github_link)
     
-    g = Github("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")
+    g = Github("")
     repo = g.get_repo("intel-sandbox/applications.ai.modelzoo.dashboard")
     open_issues = repo.get_issues(state='open')
     skiped = 0
