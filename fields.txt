@@ -1,0 +1,973 @@
+customfield_19200 Rejected Reason
+customfield_23700 Safety Related
+customfield_19201 BIOS Revision
+customfield_44400 ROI Impact to Business
+customfield_19202 Revision
+customfield_44401 Region
+resolution Resolution
+customfield_30000 Board Type
+customfield_34600 State
+customfield_30001 Code Change Link
+customfield_43307 Level
+customfield_43308 Level Reason
+customfield_43303 What should have happened
+customfield_22601 Product Baseline
+customfield_43304 What happened
+customfield_22600 Environment Found
+customfield_18100 Pull Request
+customfield_24800 Quality Event Component
+lastViewed Last Viewed
+customfield_18101 External Component
+customfield_18102 How Found
+customfield_18103 Application Name
+customfield_18104 Latest Version
+customfield_18105 Original Version
+customfield_18106 Developer Name
+customfield_18107 Package Name
+customfield_11700 Classification
+customfield_35700 Dependency Date
+customfield_31100 Milestone
+customfield_11702 Upstream Version
+aggregatetimeoriginalestimate Σ Original Estimate
+issuelinks Linked Issues
+customfield_44402 Assigned Team
+customfield_21501 Keywords
+customfield_21500 Customer Owner
+customfield_25900 Regression Commit ID
+customfield_25901 Fix Commit ID
+customfield_42003 Quality Metrics
+customfield_17003 Size
+customfield_42002 Help Needed
+customfield_17001 Requirement
+customfield_42001 Risks/Mitigation
+customfield_17000 Change Request
+customfield_35701 Kanban Due Date
+customfield_36800 SDL Task ID
+customfield_20400 Positive
+subtasks Sub-Tasks
+customfield_36803 Data classification
+customfield_36802 Test Objective
+customfield_36801 Test Category
+customfield_37900 Fix Description
+customfield_33300 Not Targeted Product SKU ID/s
+customfield_42004 Program Links
+customfield_23500 Silicon
+issuetype Issue Type
+customfield_37908 Network Platform Pillar
+customfield_37907 Source Type
+customfield_37906 What went Wrong
+customfield_37905 Source of Error
+customfield_37904 CA Phase Discovered
+customfield_37903 CA Comments
+customfield_37902 CA Category
+customfield_37901 Test Found
+customfield_34400 Accepted Date
+customfield_22800 Changelists
+customfield_24600 Code Complete Version
+customfield_18301 Open Reason
+customfield_34403 Creator
+customfield_11900 Epic Link
+customfield_11902 Epic Status
+customfield_11901 Epic Name
+customfield_11903 Epic Colour
+customfield_10815 Target Integration Build Week
+customfield_10816 Target Milestone
+customfield_21700 Action Required By
+customfield_20851 Add Customer
+customfield_25700 Gfx Driver Version
+customfield_20852 Toggle Customer Form
+customfield_20850 Web Browser
+customfield_15028 Target Device
+timetracking Time Tracking
+customfield_36601 Parent [Align]
+customfield_36600 Release [PI]
+customfield_32000 Technical Consulting Engineer
+customfield_20848 Verified in Product
+customfield_20849 Verified in Project Version
+customfield_20846 Verified by
+customfield_20847 Verified in Component Versions
+customfield_20602 Tags
+customfield_10808 External Issue ID
+customfield_20603 Hard Disk Date Lock
+customfield_20845 Transferred to DB
+customfield_10809 PM/Planner Notes
+customfield_20842 Targeted Project Version
+customfield_20843 Targeted Release
+customfield_26801 Key Customers For Application
+customfield_20840 Targeted Component Version
+customfield_26800 Business Segment
+customfield_20841 Targeted Product
+customfield_26803 ISV Version
+customfield_26802 Product Mode
+customfield_26805 On-Prem/Cloud
+customfield_26807 Product Config
+customfield_26806 Benchmark /POC
+customfield_16100 Rank
+customfield_26809 Value Metric
+customfield_26808 Perf/TCO #
+customfield_33103 Fixed-in
+customfield_37702 Product Version
+customfield_33104 Release-Note
+environment Environment
+customfield_33101 Internal-only
+customfield_37700 Program Increment
+customfield_33102 Present-in
+customfield_20839 Target Update
+customfield_33100 Requirement Category
+customfield_20837 Submitter Role
+customfield_20838 Support Required
+customfield_20835 Salesforce ID
+customfield_20836 Select Customer
+customfield_20833 Regression Test
+customfield_20834 Release
+customfield_26810 DRAM:DCPMM Ratio And Sytem Capacity
+customfield_20831 Project Version
+customfield_20832 QA Private
+customfield_27901 Software Ecosystem Enablement
+customfield_26811 OEM Partner
+customfield_20830 Project Build
+customfield_23302 Board
+customfield_33901 Datatype
+customfield_33902 HW
+customfield_13500 Program Milestone
+customfield_33900 Targeted Development Stage
+customfield_43706 Parent Item ID
+customfield_43707 Design Item Status
+customfield_43708 1BOM Type
+customfield_43702 1BOM Item ID
+customfield_43703 Item Class
+customfield_43704 1BOM Created Date
+customfield_43705 1BOM Modified Date
+customfield_22201 Vendor
+customfield_22200 Time consumed
+customfield_12400 Target
+customfield_30400 Automation
+customfield_30401 Report Link
+customfield_12401 Latest Actual Value
+customfield_11304 Affected Micro-Architecture/s
+customfield_15901 Frequency
+customfield_15902 Domain/Subdomain
+timeestimate Remaining Estimate
+customfield_27000 Serial Number
+customfield_21100 Notes
+customfield_31500 Development
+customfield_15900 Blocking Milestone
+customfield_14803 Service Class
+customfield_14804 Instance
+customfield_28101 Guest Operating System/s
+customfield_43725 Region
+customfield_20000 Zephyr Teststep
+customfield_39000 Application Link
+customfield_39002 Report Image Version
+customfield_39003 Report APK version
+customfield_32604 Delta
+customfield_39004 Issue Impact
+customfield_32603 Actual GB
+customfield_32600 Date of First Response
+customfield_10200 Affected Language
+customfield_14800 Ready?
+customfield_32602 Actual BB
+customfield_32601 Current HC Required
+customfield_19002 Product
+customfield_23900 PI-Hypothesis
+customfield_19004 Transferred from DB
+customfield_19005 Customer Company
+customfield_23901 PI-Target
+customfield_40000 QA_markup
+customfield_40001 RAVE Rating
+customfield_19000 Working Hours
+customfield_19001 Code Lines
+customfield_33703 Cloud Instance
+aggregatetimespent Σ Time Spent
+customfield_33700 Commit ID/s
+workratio Work Ratio
+customfield_22407 SnS
+customfield_22406 PnP
+customfield_22405 Power on Qualification
+customfield_43500 Subsystem
+customfield_22404 Responsiveness
+customfield_22403 HLK
+customfield_22401 Testcase
+customfield_40010 Finder
+customfield_34803 Distribution
+customfield_34804 Ref Arch
+customfield_34801 Competition Target
+customfield_34802 Flavor
+customfield_34800 Type of collateral
+customfield_31300 Security CWE
+customfield_11505 Ref Platform
+customfield_40004 SDL Link
+customfield_40005 Bug Bounty Eligible
+customfield_40002 RAVE String
+customfield_40003 Product Security Comments
+customfield_40008 CVSS String
+customfield_40009 Fuzzer
+customfield_40006 CVSS Version
+customfield_40007 CVSS Score
+customfield_31301 Planned Start Date
+customfield_35900 Patch Status Check Timestamp
+customfield_19211 Hero Features
+customfield_19213 PercentDone
+customfield_32401 Debug Status
+customfield_42205 Key Contacts
+customfield_42207 BU Sponsor
+customfield_42206 Shopping Cart Owner
+customfield_15400 OSV Target Version
+customfield_14310 Category
+customfield_12129 Measurement Report
+customfield_14308 Planned Fix Version
+customfield_12128 KPI Target URL
+customfield_14309 Risk Impact
+customfield_36102 Storage
+customfield_36101 Networking/Comms
+customfield_36100 Product Intercept
+customfield_26300 Disclosure
+customfield_26302 POC
+customfield_26301 SDL
+customfield_26304 Escape Analysis
+customfield_26303 State of Support
+customfield_13210 Decision
+customfield_17810 Rationale
+customfield_12121 Test Date/Time
+customfield_14301 Feature Type
+customfield_30800 Tracing Technology
+customfield_12123 Benchmark Data Type
+customfield_12122 Build ID
+customfield_14304 ABT Entry?
+customfield_13214 Release Version History
+customfield_12125 Severity
+customfield_14305 Android Version
+customfield_12124 Build URL
+customfield_14302 Planning Notes
+customfield_12127 Stepping
+labels Labels
+customfield_17811 What Changed
+customfield_17807 Configuration Name
+customfield_12118 Quality Description
+customfield_17806 Global ID
+customfield_17805 Actual Trend Date
+customfield_13208 Impact Assessment
+customfield_17804 Planned Completion Date
+customfield_17809 Legacy
+customfield_37200 Configuration (IPG)
+customfield_27400 Gaps
+customfield_27401 Trend
+customfield_23002 Scale
+customfield_23001 Minimum
+customfield_23000 Test Needed
+customfield_31900 OS Type
+customfield_12110 Units
+customfield_38300 Value Area
+customfield_31902 Hostname
+customfield_38302 IP Name
+customfield_12112 Target Margin %
+customfield_38303 Deployed
+customfield_13200 Integration State
+customfield_31901 OS Version number
+customfield_12111 Target Value
+customfield_12114 Baseline Value
+customfield_38304 Source Repo SCM
+customfield_17802 Effort
+customfield_13202 Product Owner Notes
+customfield_38305 Source CI/CD
+customfield_13205 Profile/s
+customfield_38306 Target Repo SCM
+customfield_17801 Use Case Type
+customfield_12115 Baseline Description
+customfield_13204 Feature PM
+customfield_38307 Target CI/CD
+customfield_12107 Target Platform
+customfield_12106 Target Program
+customfield_28501 Hardware Ecosystem Enablement
+customfield_28500 Mega Feature
+customfield_38310 ABI Version
+customfield_38311  Engagement Model
+customfield_39400 End date
+customfield_39401 Baseline start date
+customfield_38312 Org/BU/Dept
+reporter Reporter
+customfield_39402 Baseline end date
+customfield_12101 KPI Category
+customfield_12100 KPI Type
+customfield_39403 Task progress
+customfield_12103 KPI Version
+customfield_39404 Risk probability
+customfield_12102 KPI Standard URL
+customfield_39405 Risk consequence
+customfield_12105 Conditions
+customfield_16700 Dependencies
+customfield_25000 Status Update
+customfield_29600 Linked Bug
+archivedby Archiver
+customfield_15602 Domain
+customfield_14513 Platform
+customfield_14511 Customer Reported Defect
+customfield_15601 Use Case Host ID
+customfield_14504 Epic Type
+watches Watchers
+customfield_37007 Next Review Date
+customfield_42827 Prevented Date
+customfield_37006 Bug Found By
+customfield_42826 Learned Date
+customfield_37004 Rejected Date
+customfield_27200 Feature
+customfield_37003 Specification Links
+customfield_37002 Feature Area
+customfield_37001 Priority Level
+customfield_27201 Configurations
+customfield_37000 Customer
+customfield_40401 IP
+customfield_42825 Fixed Date
+updated Updated
+customfield_23200 Fixed-in Platform ID
+timeoriginalestimate Original Estimate
+description Description
+customfield_38103 Ready? (Select list)
+customfield_38105 Security Bug
+customfield_38106 Security Bug Post Release
+customfield_13400 Counter
+customfield_41507 Product Owner
+customfield_16903 Tag
+customfield_22103 Framework
+customfield_22102 Topology
+customfield_22101 Process Tracker
+customfield_22100 Reviewer
+customfield_39201 Depth of Engineering Engagement
+customfield_38113 Support
+customfield_38114 Contact IDF
+customfield_32801 Structure Index Monitor
+customfield_12301 Blocking Issue URL
+customfield_16900 Geo/s
+customfield_12300 Measurement Blocked
+customfield_32800 Mitigation
+customfield_12302 Build Date
+customfield_11204 Story Points
+customfield_29400 Reviewers
+customfield_15004 Urgency
+customfield_15005 Issue Viewers
+fixVersions Fix Version/s
+customfield_15003 Impact
+customfield_35406 Complexity-Engg Assessment
+customfield_35405 Complexity-Arch Assessment
+customfield_35404 Stakeholder
+customfield_36500 Project Team
+customfield_20828 Product SKU
+customfield_20829 Product SKU ID
+customfield_20826 Pending Date
+customfield_20827 Product ID
+customfield_20824 Open Date
+customfield_20825 Operating Systems
+customfield_20822 Last Good Known
+customfield_20823 Non-Priority Customer
+customfield_20820 Implemented by
+customfield_20821 Is this a Regression?
+priority Priority
+customfield_18500 Assigned Reason
+customfield_18501 Verified Reason
+customfield_18502 Implemented Reason
+customfield_37602 Submitted Org
+customfield_20819 Impacted Project Version
+customfield_37601 Security Defect
+customfield_37600 Rag Rating
+customfield_20817 Impacted Component Version
+customfield_33000 Sub-Project/s
+customfield_20818 Impacted Product
+customfield_20815 Found in Product
+customfield_20816 Host Operating Systems
+customfield_20813 Fixed in Products
+customfield_20814 Fixed in Project Versions
+customfield_21901 Corrective segment
+customfield_20811 External EIID
+customfield_21900 Exposed by
+customfield_20812 Fixed in Component Versions
+customfield_20810 Customer Support ID
+customfield_27801 Work Load Types
+issuekey Key
+customfield_15224 Merge Request Build
+customfield_15225 Latest Build
+customfield_38700 Stack Category
+customfield_37607 Stage Found
+customfield_38701 Projection
+customfield_37606 Team/s
+customfield_38702 Modeling
+customfield_37605 Root Cause (Select List)
+customfield_15226 Weekly Build
+customfield_38703 Analysis
+customfield_37604 Components Affected
+customfield_15227 Prevention Type
+customfield_20808 Customer Details
+customfield_20809 Customers Name
+customfield_20806 Component Version
+customfield_37610 Root Cause Category
+customfield_20807 Customer Contact
+customfield_34101 Start date
+customfield_20804 Code Review Reference
+customfield_20805 Component Build
+customfield_20802 Affected Project
+customfield_20803 Browser Details
+customfield_20800 Affected Architecture
+customfield_20801 Affected Component
+customfield_24300 Not Affects Version/s
+customfield_28901 Target Release
+customfield_24301 Targeted Version/s
+customfield_24302 Product SKU ID/s
+customfield_24303 Targeted Product SKU ID/s
+customfield_24304 Package ID
+customfield_28900 Target Release
+customfield_24305 Fixed in Product SKU ID/s
+customfield_24306 Should be Found
+customfield_24307 Customer Needs by
+customfield_24308 Non-Priority Company
+customfield_24309 Safety Related
+customfield_16300 Daily Build
+customfield_37617 Machine
+customfield_38704 Debug
+customfield_35202 Quality
+customfield_35200 Component Version
+customfield_24310 ASIL Level
+customfield_24311 Host Operating System/s
+customfield_25400 Reproducible on CRB
+customfield_19800 Category/Product
+customfield_36301 Belonging Group
+customfield_36300 Application List
+customfield_26503 Requested Completion Date
+created Created
+customfield_14100 Common Feature
+customfield_18701 IPU Block
+customfield_40804 Finance Controller
+customfield_37403 Sub-Milestone
+customfield_40803 Intel Technical Contact
+customfield_40808 PO#
+customfield_37401 Risk Reason
+customfield_37400 At Risk
+customfield_40809 Intel Cost Est. $
+customfield_40806 SOW#
+customfield_40807 Quotation#
+customfield_27600 family
+customfield_40800 Node
+customfield_27602 release
+customfield_40801 Project#
+customfield_27601 family_affected
+customfield_27603 release_affected
+customfield_16512 External Owner
+customfield_17600 CVSS
+customfield_16511 External State
+customfield_16510 External Planned
+customfield_38502 Workload
+customfield_17603 Business Unit
+customfield_16513 External Reporter
+customfield_17602 Location
+customfield_16509 External Product / Version
+customfield_40815 Supplier Committed Delivery Date
+customfield_16508 Data2
+customfield_40816 Supplier Actual Delivery Date
+customfield_16507 Data1
+customfield_40813 SOW Signed Date
+customfield_16506 Data0
+customfield_40814 Intel Requested Completion Date
+attachment Attachment
+customfield_28700 hsdes
+customfield_24102 Assignment
+customfield_40811 Supplier Final Quote $
+customfield_40812 Amount $
+customfield_41900 Goal
+customfield_40810 Supplier Cost Est. $
+customfield_16501 External Link
+customfield_16505 MPANIC
+customfield_16504 Customer_comment
+customfield_16503 Sync Owner
+customfield_16502 Sync Issue with
+customfield_35000 Reporters org
+customfield_29800 Processor
+customfield_29802 PCH
+customfield_21400 Component Owner
+customfield_35800 PI Stage
+customfield_10502 Reproducibility
+customfield_32300 ADD-Component
+customfield_41004 Request Type
+customfield_43200 Actor
+customfield_20300 ETA
+customfield_43201 DX Needed
+customfield_43202 UAT
+customfield_36902 POR Confirmed
+customfield_36901 LZ/Requirement ID
+customfield_36900 Custodian
+assignee Assignee
+customfield_23600 Maturity
+customfield_33402 SKU
+customfield_33403 RMA #
+customfield_34500 BlockedReason
+customfield_34501 Test Type
+customfield_12901 Development Manager
+customfield_12903 Target WW
+customfield_12902 Completion Date
+customfield_12905 Targeted Kernel/Package
+customfield_12904 Actual Kernel
+customfield_24700 Next Steps
+customfield_24701 Shared Description
+customfield_18200 Approved Date
+customfield_24702 Microsoft Attachment URL
+customfield_18201 Sub-Component/s
+customfield_18202 Exists On
+customfield_18207 Deferred by
+customfield_18208 Deferred Reason
+customfield_18209 Pending by
+customfield_34504 Actual Trend WW
+customfield_18203 All CI Builds
+customfield_18204 Program Status
+customfield_18205 Topic Build
+customfield_34502 Validation Expected Result
+customfield_18206 Deferred Date
+customfield_34503 Validation Input
+customfield_35601 Patch Status
+customfield_35600 Patch ID
+votes Votes
+worklog Log Work
+customfield_25800 Driver Plan
+customfield_25801 Simulation Plan
+customfield_25802 RTL Plan
+customfield_17100 Domain/s
+customfield_32101 Risk Category
+customfield_36700 CSP Tenant
+customfield_10700 Platform/s
+customfield_20501 Failed On
+customfield_26900 Code Complete Versions
+customfield_43001 Highlights/Lowlights
+customfield_16000 Supported Project
+customfield_37801 SOC Steppings
+customfield_37800 Configuration (IPG)
+customfield_33200 Exec Level Backlog
+customfield_33201 Checker
+customfield_19500 External issue URL
+customfield_37805 Collateral_Location
+customfield_37804 To_Reproduce
+customfield_37803 Board Name
+customfield_38900 Last Comment
+customfield_37802 Fixed in Components
+customfield_38901 Skillset
+customfield_34301 External issue ID
+customfield_22901 gitCommitsReferenced
+customfield_22900 gitBranch
+customfield_24500 Repeat
+customfield_18400 Actual Release
+customfield_35402 IT Representative
+customfield_35401 Business Sponsor
+customfield_35400 Business Analyst
+duedate Due Date
+customfield_21805 baseline end date
+customfield_21804 baseline start date
+customfield_21803 end date
+customfield_21802 start date
+customfield_21801 Software Version
+customfield_21800 Fixed in Build
+customfield_25600 Development Testing Environments
+customfield_25601 Validation Testing Environments
+customfield_25602 Resource Allocation
+customfield_21002 Bug Scrub Notes
+customfield_21000 Blocked On
+customfield_38000 External Source Sync Setting
+customfield_38001 Internsync Status
+customfield_38002 Internsync Child Insync
+customfield_38003 Approvers
+customfield_15800 Verification
+customfield_11201 Flagged
+customfield_13620 Issue Types to Sync
+customfield_10112 Testable
+customfield_10113 Feature Planner
+customfield_31601 Program Increment
+customfield_13622 OSVE
+customfield_31600 Task mode
+customfield_13613 Project Key
+customfield_28200 Domain
+customfield_10109 Source
+customfield_39100 Waiver Approval
+customfield_32702 Released Version
+customfield_14700 Business Impact / Value
+customfield_13612 Project URL
+customfield_32701 Review Type
+customfield_10102 Target Date
+customfield_13611 Project Name
+customfield_32700 Review Effort
+customfield_13603 Platform/Program
+customfield_13605 Bug EXISTS On
+customfield_12515 Submitted INT?
+customfield_13604 jqltField
+customfield_13607 Bug FOUND On
+customfield_13609 Actual Kernel/Package
+customfield_13608 OSVE Owner
+status Status
+customfield_33808 External Target ID
+customfield_33809 External Target DB
+customfield_40100 Primary Domain/s
+customfield_33806 Parent External ID
+customfield_33807 Parent Status
+customfield_33804 Customer Project(s)
+customfield_33803 Worktype
+customfield_33800 Partner Organization Support
+archiveddate Archived
+customfield_13600 Ingredients
+aggregatetimeestimate Σ Remaining Estimate
+customfield_43607 Primary Contacts
+customfield_43603 Activator
+customfield_43604 Decider
+customfield_43605 Lot ID
+customfield_43606 Supplier
+customfield_43600 Technology Node
+customfield_43601 Expected Start Date
+customfield_43602 Recommender
+creator Creator
+customfield_22300 Resolution Type
+customfield_41200 Schedule Health
+customfield_30308 Value
+customfield_33817 DCR link
+customfield_30304 Coreapp/Collaboration
+customfield_33815 Support_Case_Id
+customfield_33816 SOR Link
+customfield_30305 Scale Up Database
+customfield_34902 Commit ID/s
+customfield_33813 External Source DB
+customfield_30306 Premium
+customfield_33814 External Source URL
+customfield_30307 Mainstream
+customfield_33811 External Target Sync
+customfield_30300 Mod/Sim/Viz
+customfield_34900 Software implementation plan
+customfield_30301 Analytics Scale Out
+customfield_34901 Application Priority
+customfield_33812 External Source ID
+customfield_30302 Analytics Scale Up
+customfield_33810 External Target URL
+customfield_30303 IT Infrastructure
+customfield_13822 Verified Date
+customfield_14911 Sync External Issue
+customfield_14919 ID
+customfield_40101 Secondary Domain/s
+customfield_40102 Additional Requirements
+customfield_21205 Likelihood
+timespent Time Spent
+customfield_30311 Value SaaS
+customfield_31400 Found In Program - Old
+customfield_13821 Found in Component
+customfield_30313 Low End Storage
+customfield_13820 Enterprise Issue ID
+customfield_11400 Rank (Obsolete)
+customfield_13812 Then
+customfield_13811 If
+customfield_10303 Risk Exposure
+customfield_13814 Probability
+customfield_13813 Phase Impacted
+customfield_28002 CESG Priority
+customfield_13816 Time to Action Message
+customfield_28003 Enterprise & Government Valuation
+customfield_13815 Objective Impacted
+customfield_13818 Action
+customfield_28000 Horizontal Initiative
+customfield_28001 IA Differentiation
+customfield_13817 Strategy
+customfield_41203 Quality Health
+customfield_13819 Risk Close Reason
+customfield_28004 NPG Priority
+customfield_41202 Scope Health
+customfield_41201 Resources /Budget Health
+customfield_20100 Customer Impact
+customfield_10300 Customer Priority
+customfield_13810 Found in Project
+customfield_13801 Closed Reason
+customfield_13800 Closed By
+customfield_13803 Root Cause
+customfield_13802 Implemented Date
+customfield_13805 Exposure
+customfield_13807 Report Type
+customfield_13806 Customer Impact Details
+customfield_13809 Operating System
+customfield_13808 Customer ID
+customfield_19101 Issue Closed By
+customfield_19102 Cause
+customfield_23800 IP Family
+customfield_43410 Effort Actual
+customfield_23801 IP Family-sub
+customfield_19103 Reason
+customfield_43411 Applicable
+customfield_44500 Operational Process
+customfield_33608 Component Assigned
+customfield_19100 Problem Classification
+customfield_19109 Fixed In Component-BZ
+customfield_33606 Review Date
+customfield_33604 Business Value
+customfield_33605 Review Team
+customfield_33602 Generic
+customfield_33603 x86
+customfield_33600 IA CPU
+customfield_33601 IA NIC
+customfield_30101 Requirement Type
+customfield_43409 Effort Estimate
+customfield_43407 Parent Group
+customfield_43408 Elements
+customfield_43401 Requirement Class
+customfield_43403 Target Metric
+customfield_43404 1Rationale
+customfield_18001 Revert Patches
+customfield_18002 External Fields
+customfield_18003 Review Readiness Date
+customfield_41000 Functional Spec available
+customfield_18000 Patches to Upstream
+customfield_34704 Estimated Start date
+customfield_34705 End User Type
+customfield_34702 Proposed Rank
+customfield_34703 Final Rank
+customfield_34700 Test Method
+customfield_31200 Target Hardware
+customfield_11605 Sprint
+customfield_11609 Acceptance Criteria
+customfield_44505 ROI Time
+customfield_43412 Metric Attributes Valid
+customfield_44501 Who does this benefit?
+customfield_44502 Proposed Application
+customfield_44503 Business Criticality
+customfield_21402 Release Date
+customfield_44504 Recognition
+customfield_21401 State Reason
+customfield_12011 Related Customer Bug
+customfield_17700 Value Added
+customfield_38400 Prior Applicable Release Versions
+customfield_38402 Security Review
+customfield_13103 Commit ID's
+customfield_17701 Tool
+customfield_12009 Steps to Reproduce
+customfield_24000 Power On
+customfield_28600 bkc
+customfield_24001 PCB Layers
+customfield_24002 Check List Submitted
+customfield_16600 Reporting
+customfield_12000 Team
+customfield_39500 Parent Link
+customfield_12002 Blocked Reason
+customfield_39501 Target start
+customfield_12001 Program/Theme
+customfield_39502 Target end
+customfield_39503 Original story points
+customfield_39504 Team
+customfield_15507 Crosbug Project
+customfield_15508 Crosbug Reporter
+customfield_15505 Crosbug Owner
+customfield_15506 Crosbug Priority
+customfield_15509 Crosbug Status
+customfield_25100 Chip Model
+customfield_29700 SLA
+components Component/s
+customfield_15500 Crosbug Components
+customfield_15503 Crosbug Milestone
+customfield_15501 Crosbug ID
+customfield_15502 Crosbug Labels
+customfield_36008 IO/PCIe
+customfield_36007 Memory/PMEM
+customfield_36006 Memory/DDR
+customfield_36005 SKUs
+customfield_36004 CPU Details
+customfield_36003 UPIs
+customfield_36002 Topology
+customfield_36001 OxM
+customfield_36000 Effort 2
+customfield_30700 Verified in Driver Version
+customfield_36009 Milestone(IPG)
+customfield_27301 AV status
+customfield_37100 Affected Packages
+progress Progress
+customfield_27300 Design Status
+customfield_23102 Ingredient ID
+customfield_31805 Found In Program
+customfield_23101 Platform ID
+customfield_23100 Platform configuration Build
+customfield_31806 Assigned Date
+customfield_38201 Display Color
+project Project
+customfield_38204 Security How Found
+customfield_17900 Direction
+customfield_14627 Total Effort Estimate
+customfield_14628 FieldType
+customfield_14625 Stakeholder Requestor
+customfield_11119 Operating System/s
+customfield_14626 STRIDE
+resolutiondate Resolved
+customfield_14629 [CHART] Time in Status
+customfield_41600 Owning Organization
+customfield_28400 Value category
+customfield_22006 Cost Center
+customfield_22004 Doc ID
+customfield_22003 Test Owner
+customfield_22002 Test Cycle
+customfield_22001 Fix Needed By
+customfield_22000 Customer Disclosure
+customfield_39300 Closed Reason
+customfield_14620 Persona
+customfield_39303 Fix in Build
+customfield_11111 Fixed in Stable Kernel Version(s)
+customfield_14623 Development Stage
+customfield_39305 External EIID
+customfield_16801 Firmware
+customfield_12201 Related Project
+customfield_14624 Security Rating
+customfield_39306 What Changed
+customfield_16800 Documentation
+customfield_14621 Phase Discovered
+customfield_14617 Found in build
+customfield_11107 Affected Kernel Version
+customfield_14614 Engineering Contact/Owner
+customfield_14615 Fix in Build
+customfield_14619 Participants
+customfield_29500 Bug Type
+customfield_29501 Found In test Requirement
+customfield_14612 Deployment Change Needed
+customfield_14613 Disposition
+customfield_14610 Test Review Needed
+customfield_15700 Details
+customfield_14611 Doc Needed
+customfield_14605 Requirements Specification
+customfield_14606 Design Document
+customfield_14603 Bug Verified On
+customfield_14604 Feature ID
+customfield_14609 Design Review Needed
+customfield_14607 Test Design
+customfield_14608 Customer Name
+summary Summary
+customfield_30502 Crosbug Closed Date
+customfield_30503 Crosbug Opened Date
+customfield_14601 External DB
+customfield_27100 SW_Config
+customfield_27103 Fixed Build/s
+comment Comment
+customfield_27104 Found Build/s
+customfield_27902 Similar Services
+customfield_17300 Problem Area
+customfield_33107 Test Enclosure
+customfield_33108 Path
+customfield_33105 Planned-for
+customfield_33106 Requested-fix-in
+customfield_34203 Rally Project Hierarchy
+customfield_34204 Workspace
+customfield_33112 POC Objective
+customfield_34201 Rally Object URL
+customfield_33113 Current Phase Acceptance Criteria
+customfield_34202 Version Id
+customfield_10900 Planned Integration Schedule
+customfield_33110 SW Planned WW
+customfield_33111 Integrated Planned WW
+customfield_34200 Rally Project Name
+customfield_24400 Select Customer Company
+customfield_24401 Quality Event Type
+customfield_34209 Sprint Id
+customfield_15113 Patches
+customfield_34207 Area
+customfield_34208 Portfolio Item
+customfield_34205 Formatted ID
+customfield_34206 Verified in Build
+customfield_34214 WSJF Score
+customfield_34215 Time Criticality
+customfield_34212 Last Rollup Date
+customfield_34213 RROE Value
+customfield_34210 Actual Start Date
+customfield_33121 Board Re-Spin
+customfield_35300 User Story
+versions Affects Version/s
+customfield_34211 Actual End Date
+customfield_25500 Phase
+customfield_25501 Scoping
+customfield_25502 Contributors
+customfield_15100 Hardware
+customfield_15103 Feature Team
+customfield_15101 Found by
+customfield_15102 Approval Status
+customfield_15107 Fixed in Component
+customfield_34218 Team Commits
+customfield_15108 Flag
+customfield_19700 Validation Lead
+customfield_34219 usDb Key
+customfield_15105 URL
+customfield_34216 User Business Value
+customfield_34217 Job Size
+customfield_15106 Root Cause - DTS
+customfield_36404 Amount
+customfield_34225 Archived
+customfield_34226 Blocked
+customfield_36403 Unit Price
+customfield_36402 Quantity
+customfield_34223 Target Build
+customfield_39906 Competency Area
+customfield_36401 GSD_Disposed
+customfield_34224 Submitted By
+customfield_36400 ETA Request
+customfield_34221 taskresize
+customfield_34222 Requestor
+customfield_34220 usDb Value
+customfield_26601 Resources
+customfield_26600 Maximum
+customfield_14000 QA Contact
+aggregateprogress Σ Progress
+customfield_34229 Planned End Date
+customfield_18600 Domain Status
+customfield_15336 Closed Date
+customfield_34227 Expedite
+customfield_34228 Investment Category
+customfield_15337 Start Date and Time
+customfield_37500 Architecture
+customfield_34232 Risk Score
+customfield_34230 Preliminary Estimate
+customfield_34231 Refined Estimate
+customfield_27701 family
+customfield_27703 release
+customfield_27702 family_affected
+customfield_27705 Work Load Types
+customfield_38600 Xeon Priority
+customfield_38601 AXG Priority
+customfield_38602 CESG Definitional Customer
+customfield_38603 AXG Definitional Customer
+customfield_38604 NPG Definitional Customer
+customfield_34003 Assigned Cost
+customfield_34004 Work Hour Estimate
+customfield_34001 Out of Scope
+customfield_34002 Customer Representative
+customfield_34000 Assumptions
+customfield_24200 [A]SIL Level
+customfield_20900 Original Design Manufacturer
+customfield_28800 API
+customfield_28801 OS Version
+thumbnail Images
+customfield_16401 Use Case
+customfield_16400 Feature Category
+customfield_34009 Interface
+customfield_34007 Collateral
+customfield_34008 Affected Revision
+customfield_16403 Pending Reason
+customfield_38605 Usability
+customfield_38606 Cost
+customfield_38607 Benefit
+customfield_35101 Post Conditions
+customfield_35100 Pre Conditions
+customfield_25300 Gfx Branch
+customfield_25301 Test Name
+customfield_29900 SOC Stepping
+customfield_29901 PCH Stepping
+customfield_15301 Verified On
+customfield_14210 issueFunction
+customfield_19900 Affected Products
+customfield_36206 Parent description
+customfield_36205 Parent owner
+security Security Level
+customfield_36204 Parent Title
+customfield_36200 Urgency Description
+customfield_18801 Issue Category
+customfield_30900 Branch
+customfield_18800 Customer Project Name
+customfield_36207 parent component
+customfield_37304 Order ID
+customfield_37303 Part ID
+customfield_37302 BPC Line ID
+customfield_37301 Budget Bucket
+customfield_37300 WBS
+customfield_27501 Re-estimate
+customfield_40700 Network Platform Capability Team
+[]
+issue #57: For every training model, add its inference counterpart @https://api.github.com/repos/intel-sandbox/applications.ai.modelzoo.dashboard/issues/57 is not a bug
+Body:
+=========
+None
